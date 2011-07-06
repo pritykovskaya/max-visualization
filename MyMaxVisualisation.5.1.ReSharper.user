@@ -1,0 +1,61 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:DialogFinal.h" caret="0" fromTop="0" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:DialogFinal.cpp" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:afxwin2.inl/l:C!?Program Files?Microsoft Visual Studio 8?VC?atlmfc?include?afxwin2.inl" caret="18098" fromTop="14" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="806" fromTop="10" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GorgeMethod.cpp" caret="2213" fromTop="81" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.h" caret="1030" fromTop="23" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="13507" fromTop="19" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:Method.h" caret="2220" fromTop="84" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.cpp" caret="519" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.h" caret="885" fromTop="19" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.cpp" caret="1311" fromTop="26" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="13655" fromTop="19" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.cpp" caret="908" fromTop="16" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.h" caret="1030" fromTop="24" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="8622" fromTop="11" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="9830" fromTop="10" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="10384" fromTop="10" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="15004" fromTop="10" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="544" fromTop="7" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="1345" fromTop="32" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="1742" fromTop="32" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="542" fromTop="1" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="201" fromTop="5" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="376" fromTop="10" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GradMethod.cpp" caret="1948" fromTop="26" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:Method.h" caret="1509" fromTop="21" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="7519" fromTop="30" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GorgeMethod.cpp" caret="1032" fromTop="6" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GorgeMethod.cpp" caret="2447" fromTop="19" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GorgeMethod.cpp" caret="2076" fromTop="7" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GorgeMethod.cpp" caret="1297" fromTop="5" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:GorgeMethod.cpp" caret="1856" fromTop="24" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationView.cpp" caret="13507" fromTop="19" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.cpp" caret="891" fromTop="22" />
+      <File id="A43BEFF5-DDB0-423B-8145-CC0A1C33E1BC/f:MyMaxVisualisationDoc.cpp" caret="578" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
